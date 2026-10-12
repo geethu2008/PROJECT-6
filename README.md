@@ -124,7 +124,9 @@ Python, Streamlit, Pandas, NumPy, scikit-learn, XGBoost, Joblib, Matplotlib, and
 ## Author
 
 **NEDURUMALLI GEETHESWAR REDDY**
-**R.M.K ENGINEERING COLEGE**
+## COLLEGE
+
+**R.M.K ENGINEERING COLLEGE**
 
 
 [GitHub](https://github.com/utsavgangadiya)
