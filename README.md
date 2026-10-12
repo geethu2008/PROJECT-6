@@ -123,6 +123,8 @@ Python, Streamlit, Pandas, NumPy, scikit-learn, XGBoost, Joblib, Matplotlib, and
 
 ## Author
 
-Utsav Gangadiya
+NEDURUMALLI GEETHESWAR REDDY 
+COLLEGE : R.M.K ENGINEERING COLEGE
+
 
 [GitHub](https://github.com/utsavgangadiya)
